@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="player">
+        <h2>My Music Player</h2>
+
+        <audio controls></audio>
+
+        <div class="buttons">
+            <button>Play</button>
+            <button>Pause</button>
+            <button>Stop</button>
+        </div>
+    </div>
+
+</body>
+</html>
